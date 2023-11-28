@@ -16,5 +16,5 @@
 			]
 		}
 	},
-	"onCreateCommand": "cd /workspaces/DiveIntelligence/src/DivingCalculator.Web && npm ci && ng build"
+	"onCreateCommand": "cd /workspaces/DiveIntelligence-demo3/src/DivingCalculator.Web && npm ci && ng build"
 }
